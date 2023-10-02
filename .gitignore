@@ -1,3 +1,8 @@
 # PyCharm IDE files
 idea/
 staticfiles/
+
+# Random stuff
+.venv/
+__pycache__/
+*.sqlite3
